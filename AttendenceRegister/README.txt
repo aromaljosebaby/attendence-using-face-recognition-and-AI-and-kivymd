@@ -1,0 +1,1 @@
+This is were the attendence registered would be saved as csv files please make a folder with the name AttendenceRegister in your working directory.
