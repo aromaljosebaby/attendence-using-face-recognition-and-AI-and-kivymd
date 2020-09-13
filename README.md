@@ -17,3 +17,14 @@ https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=do
 
 4) To quit from the attendence portal press q 
 
+
+How the code works:
+
+The images you train go to the folder Train Images,this will be the image of the students you want to recognize.
+
+Note: Dont directly add student images to Train Images , but use the feature add image in the home page,because this image is stored ina specific format with the roll number of the student.
+
+The attendence register will be stored as a csv file in the folder AttendenceRegister with the corresponding days date.
+
+The attendence register contains the students name and the time in which the student enterd the attendence system.
+
