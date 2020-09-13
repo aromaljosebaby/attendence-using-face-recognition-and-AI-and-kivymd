@@ -15,3 +15,5 @@ https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=do
 
 3) Make sure you first train images to recognize before starting the attendence process
 
+4) To quit from the attendence portal press q 
+
