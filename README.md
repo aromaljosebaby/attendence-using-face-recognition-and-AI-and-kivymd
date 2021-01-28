@@ -1,4 +1,8 @@
 # attendence-using-face-recognition-and-AI-and-kivymd
+
+
+![alt text](https://github.com/aromaljosebaby/attendence-using-face-recognition-and-AI-and-kivymd/blob/master/program_output_images/attendence_output.PNG)
+
 A project which automates the process of taking attendence using face recognition and AI and designed using kivymd gui
 
 
